@@ -4,6 +4,8 @@
   "description": "This is react exercises on Namaste React",
   "browserlist": "last 2 major version",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
